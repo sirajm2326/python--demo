@@ -1,3 +1,8 @@
-Flask==2.2.2
-gunicorn
-Werkzeug==2.2.2
+Flask
+python-dotenv
+azure-core
+azure-ai-formrecognizer
+azure-storage-blob
+azure-search-documents
+google-cloud-storage
+langchain
